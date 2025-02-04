@@ -4,7 +4,7 @@
 
 - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
-# kebab
+# kebab  //didys
 ## kebab
 ### kebab
 #### kebeab
@@ -12,13 +12,48 @@
 
 ### Kintamieji (variables)
 
+-number
+-string-boolean
+-array
+- object
+
 ### Salygos (conditionals)
+
+  - if
+  - swotch
+  - ternary
+  - boolean logika and or
+
 
 ### Ciklai (loops)
 
+  - for
+  - for-of
+  - for-in
+  - while
+  - cikliski array metodai
+
+
 ### Funkcijos (functions, class"ss)
 
-### Ivykiai (events, event listeners)
+  - function
+  - arrow function
+  - class (oop)
+  - number metodai
+  - string metodai
+  - object metodai
+  - array metodai
+
+### Ivykiai, narsykle (events, event listeners)
+
+  - DOM
+  - event listeners
+  - fetch
+  - localStorage
+
+
+
+
 
 # **Labas** _rytas_, **_Lietuva_**! 
 
