@@ -74,5 +74,4 @@ console.log('trunc');
 console.log(Math.trunc(9.6)); // ""apvalinimams" trunc dirba kaip cell
 console.log(Math.trunc(-9.9)); // bet jis ne apvalina ar palei zenkla numemta link nulio.
 
-// JS Math
 
