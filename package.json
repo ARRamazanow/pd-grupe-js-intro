@@ -1,0 +1,17 @@
+{
+  "name": "pd-grupe-js-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    
+    "function": "node --watch js/05-function.js",
+    "for": "node --watch js/04-for.js",
+    "for1": "node --watch js/40-for.js",
+    "if": "node --watch js/03-if.js",
+    "test": "echo \"labas rytas Lietuva\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
