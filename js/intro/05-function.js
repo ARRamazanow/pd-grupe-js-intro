@@ -76,4 +76,3 @@ console.log(algoritmas(6));
 console.log(algoritmas(7));
 console.log(algoritmas(8));
 console.log(algoritmas(9));
-

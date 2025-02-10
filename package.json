@@ -4,11 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    
-    "function": "node --watch js/05-function.js",
-    "for": "node --watch js/04-for.js",
-    "for1": "node --watch js/40-for.js",
-    "if": "node --watch js/03-if.js",
+    "dev:back": "",
+    "dev:front":"",
+    "prod:back":"",
+    "prod:front":"",
+    "string:method": "node --watch js/intro/variables/08-string-method.js",
+    "string": "node --watch js/intro/variables/07-string.js",
+    "numbers": "node --watch js/intro/variables/06-numbers.js",
+     "function": "node --watch js/intro/05-function.js",
+    "for": "node --watch js/intro'04-for.js",
+    "if": "node --watch js/intro/03-if.js",
     "test": "echo \"labas rytas Lietuva\" && exit 1"
   },
   "keywords": [],
