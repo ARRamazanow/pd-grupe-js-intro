@@ -175,18 +175,3 @@ console.log('-----------------');
 
 
 console.clear();
-
-11. // Iš teksto "HTML CSS JS" paimkite pirmąją kiekvieno žodžio raidę ir sudėkite jas į vieną string'ą.
-
-//"HTML CSS JS"
-
-const str = "HTML CSS JS!";
-const result = str.replace("HTML", "H").replace("CSS", "C").replace("JS", "J");
-console.log(result);
-
-
-//  5. Tekste "mokytojas" pakeiskite pabaigą į "ėja", kad gautumėte "mokytoja".
-
-let s = 'mokytojas';
-s= s.replace('as', 'a');
-console.log(s);

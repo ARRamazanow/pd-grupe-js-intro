@@ -234,3 +234,74 @@ console.clear();
 // asafga,  1251241, ergsghsgds, 325135153.
 console.log('pomidoras'.split());
 
+console.clear();
+// to UP and Lower    CASE;
+console.log('pomidoras'.toUpperCase());
+console.log('POMIDORAS'.toLocaleLowerCase());
+
+console.log('pomidoras'.toUpperCase());
+console.log('3 POMIDORAS IR 4 AGURKAI'.toLowerCase()); //pvz 
+
+console.clear();
+const randomNumer= 562156;
+console.log(randomNumer);
+console.log(randomNumer);
+console.log(randomNumer.toString());
+console.log(''+ randomNumer);
+console.log(`${randomNumer}`);
+
+console.log(true);
+console.log(true.toString);
+
+console.clear();
+
+const hi = '   Labas    rytas,    Lietuva!';
+console.log(// darom stulpeliu nes per ilgas bus
+    hi
+    .trim() // Pasalina tarpus pradzioje ir pabaigoje
+    .replaceAll('    ', ' ') // Pakeicia keturis tarpus i viena
+    .replaceAll('  ', ' ') // Pakeicia du tarpus i viena
+);
+console.log(hi.includes('    '));// ar yra 4 probelai
+// Labas rytas,    Lietuva!
+console.clear();
+
+console.log('pirmas antras trecias');
+console.log('pirmas antras trecias'.length);//ne tinkamas
+console.log('pirmas antras trecias'.split(' '));
+console.log(3);
+console.log('pirmas antras trecias'.split(' ').length);
+
+const text123 = 'pirmas antras trecias';
+const dictionary = text123.split(' ');
+const wordsCount = dictionary.length;
+console.log(text123);
+console.log(text123.split(' '));
+console.log('pirmas antras trecias');
+console.log(dictionary);
+console.log(wordsCount);
+console.log(text123[0]);
+console.log(text123[1]);
+console.log(text123[2]);
+console.log(text123[3]);
+console.log(text123[4]);
+console.log(text123[5]);
+console.log(dictionary[0]);
+console.log(dictionary[1]);
+console.log(dictionary[2]);
+console.log(wordsCount[1]);
+
+const js = 'ich bid habe waren und'
+const sentence = js.split('.');
+console.log(sentence);
+
+console.clear();
+
+console.log('duona'.split('o'));
+console.log('duona'.split('u'));
+console.log('duona'.split('g'));
+console.log('duona'.split('a'));
+console.log('duona'.split('du'));
+console.log('vasara'.split('a'));
+console.log('vasara'.split(''));
+console.log('vasara'.split('a'));
