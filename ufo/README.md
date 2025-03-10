@@ -40,7 +40,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/54-grupe-ufo.git
+    git clone https://github.com/ARRamazanow
     ```
 2. Install NPM packages
     ```sh
